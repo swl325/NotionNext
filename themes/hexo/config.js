@@ -2,7 +2,7 @@ const CONFIG = {
   HEXO_HOME_BANNER_ENABLE: true,
   // 3.14.1以后的版本中，欢迎语在blog.config.js中配置，用英文逗号','隔开多个。
   HEXO_HOME_BANNER_GREETINGS: [
-    '嗨，我是 maosuVPN',
+    '嗨，我是MaosuVPN',
     '一只爱穿梭全球网络的猫鼠混血特工',
     '我不爱被盯梢、不爱堵墙',
     '欢迎来到我的主场🎉'
