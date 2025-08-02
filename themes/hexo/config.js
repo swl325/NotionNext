@@ -1,13 +1,7 @@
 const CONFIG = {
   HEXO_HOME_BANNER_ENABLE: true,
   // 3.14.1以后的版本中，欢迎语在blog.config.js中配置，用英文逗号','隔开多个。
-  HEXO_HOME_BANNER_GREETINGS: [
-    '嗨，我是 maosuVPN',
-    '一只爱穿梭全球网络的猫鼠混血特工',
-    '我不爱被盯梢、不爱堵墙',
-    '欢迎来到我的主场🎉'
-  ], // 首页大图标语文字
-
+  HEXO_HOME_BANNER_GREETINGS: ['嗨，我是 maosuVPN','一只爱穿梭全球网络的猫鼠混血特工','我不爱被盯梢、不爱堵墙','欢迎来到我的主场🎉'], // 首页大图标语文字
   HEXO_HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
   // 已知未修复bug, 在移动端开启true后会加载不出图片； 暂时建议设置为false。
   HEXO_HOME_NAV_BACKGROUND_IMG_FIXED: false, // 首页背景图滚动时是否固定，true 则滚动时图片不懂动； false则随鼠标滚动 ;
