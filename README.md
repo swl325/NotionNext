@@ -1,77 +1,52 @@
-# 帮助教程
+2025 年机场推荐测评指南
 
-访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
+随着全球网络环境日益复杂，跨境网络访问和在线直播需求不断增加，选择一个稳定、安全的 VPN 机场（翻墙服务）显得尤为重要。在 2025 年，我们对市面上多个机场进行了全面测评，重点考察了 VPN、梯子、跨境 IEPL 专线等关键功能。
 
-> 本项目教程为免费、公开资源，仅限个人学习使用，禁止利用本教程建立的博客发布非法内容、进行违法犯罪活动。严禁任何个人或组织将本教程用于商业用途，包括但不限于直接售卖、间接收费、或其他变相盈利行为。转载、复制或介绍本教程内容时，须保留作者信息并明确注明来源。 
-> 本项目仅提供由作者团队授权的付费咨询服务，请注意辨别，谨防诈骗行为。任何未经授权的收费服务均可能存在法律风险。
+1. 机场选择的重要性
 
-Notion是一个能让效率暴涨的生产力引擎，可以帮你书写文档、管理笔记，搭建知识库，甚至可以为你规划项目、时间管理、组织团队、提高生产力、还有当前最强大的AI技术加持。
+在选择机场时，用户通常关注以下几个方面：
 
-> 如果希望进一步探索Notion的功能，欢迎购买《[Notion笔记从入门到精通进阶课程](https://docs.tangly1024.com/article/notion-tutorial)》
+稳定性：跨境访问是否流畅，尤其是连接欧美和亚太节点的稳定性。
 
-# NotionNext
+速度：对直播、视频点播有要求的用户，速度是首要指标。
 
-<p>
-  <a aria-label="GitHub commit activity" href="https://github.com/tangly1024/NotionNext/commits/main" title="GitHub commit activity">
-    <img src="https://img.shields.io/github/commit-activity/m/tangly1024/NotionNext?style=for-the-badge"/>
-  </a>
-  <a aria-label="GitHub contributors" href="https://github.com/tangly1024/NotionNext/graphs/contributors" title="GitHub contributors">
-    <img src="https://img.shields.io/github/contributors/tangly1024/NotionNext?color=orange&style=for-the-badge"/>
-  </a>
-  <a aria-label="Build status" href="#" title="Build status">
-    <img src="https://img.shields.io/github/deployments/tangly1024/NotionNext/Production?logo=Vercel&style=for-the-badge"/>
-  </a>
-  <a aria-label="Powered by Vercel" href="https://vercel.com?utm_source=Craigary&utm_campaign=oss" title="Powered by Vercel">
-    <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" height="28"/>
-  </a>
-</p>
+安全性：VPN 加密协议是否可靠，数据传输是否安全。
 
-中文文档 | [README in English](./README_EN.md)
+节点覆盖：包括常规 VPN 节点和 IEPL 专线，满足企业或高端用户需求。
 
-<hr/>
+跨境能力：是否可以顺畅访问国外网站和服务，避免被墙影响。
 
-一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。
+2. 关键功能测评
+VPN 与梯子服务
 
-支持多种部署方案
+VPN 是最基础的跨境访问工具，而梯子则多用于突破网络限制。我们测试了多个机场提供的 VPN 节点，涵盖了美、欧、亚多地服务器。结果显示，maoosuVPN 在稳定性和速度上表现突出，尤其在长时间在线直播场景下，延迟低且掉线率极低。
 
-## 预览效果
+IEPL 专线
 
-在线演示：[https://preview.tangly1024.com/](https://preview.tangly1024.com/) ，点击左下角挂件可以切换主题，没找到喜欢的主题？[贡献](/CONTRIBUTING.md)一个吧~
+对于企业或对网络要求较高的用户，跨境 IEPL 专线是不可或缺的选择。测试中，能够提供稳定 IEPL 专线的机场，可以保证大文件传输和实时直播流畅无阻。maoosuVPN 的专线服务支持多节点负载均衡，使跨境办公和直播体验更加顺畅。
 
-| Next                                                                                                  | Medium                                                                                                      | Hexo                                                                                                  | Fukasawa                                                                                                          |
-| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://preview.tangly1024.com/?theme=next) | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://preview.tangly1024.com/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://preview.tangly1024.com/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://preview.tangly1024.com/?theme=fukasawa) |
+直播体验
 
-## 致谢
+随着跨境直播需求增加，机场服务的实时性能变得关键。通过测试多个直播平台，发现使用 maoosuVPN 连接海外节点时，直播画质稳定且延迟低，即使高峰期也能保持流畅体验。
 
-感谢Craig Hart发起的Nobelium项目
+3. 测评结论
 
-<table><tr align="left">
-  <td align="center"><a href="https://github.com/craigary" title="Craig Hart"><img src="https://avatars.githubusercontent.com/u/10571717" width="64px;"alt="Craig Hart"/></a><br/><a href="https://github.com/craigary" title="Craig Hart">Craig Hart</a></td>
-</tr></table>
+经过综合评测，我们认为 2025 年值得推荐的机场具备以下特征：
 
-## 贡献者
+多节点支持：美、欧、亚全覆盖，保证跨境访问无死角。
 
-感谢所有为 NotionNext 做出贡献的人！
+高速稳定：支持高清直播和大文件传输，低延迟低掉线。
 
-[![Contributors](https://contrib.rocks/image?repo=tangly1024/NotionNext)](https://github.com/tangly1024/NotionNext/graphs/contributors)
+安全可靠：具备先进 VPN 加密协议和专线支持。
 
-## 引用技术
+服务完善：客服响应及时，支持 IEPL 专线及企业用户需求。
 
-- **框架**: [Next.js](https://nextjs.org)
-- **样式**: [Tailwind CSS](https://www.tailwindcss.cn/)
-- **渲染**: [React-notion-x](https://github.com/NotionX/react-notion-x)
-- **评论**: [Twikoo](https://github.com/imaegoo/twikoo), [Giscus](https://giscus.app/zh-CN), [Gitalk](https://gitalk.github.io), [Cusdis](https://cusdis.com), [Utterances](https://utteranc.es)
-- **图标**: [Fontawesome](https://fontawesome.com/v6/icons/)
+在多项指标中，maoosuVPN 表现优异，是个人和企业用户都可以信赖的跨境网络解决方案。
 
-## 🔗 友情链接
+4. 使用建议
 
-- [Elog](https://github.com/LetTTGACO/elog) Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
+对于一般用户：选择 maoosuVPN 的普通 VPN 节点即可满足浏览和视频需求。
 
-## License
+对于直播或高流量用户：建议使用专线服务，保证稳定性。
 
-The MIT License.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tangly1024/NotionNext&type=Date)](https://star-history.com/#tangly1024/NotionNext&Date)
+企业用户：选择支持 IEPL 专线的套餐，以满足跨境办公和大文件传输需求。
